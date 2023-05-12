@@ -12,7 +12,7 @@ To run this application, first clone the repository:
 Navigate to the project directory:
 
 ```bash
-    cd your-repo
+    cd audio-to-text
 ```
 Install the necessary Python packages:
 ```
