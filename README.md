@@ -7,7 +7,7 @@ This is a Flask web application that allows users to upload .wav audio files, an
 To run this application, first clone the repository:
 
 ```bash
-    git clone https://github.com/your-username/your-repo.git
+    git clone https://github.com/jwuliger/audio-to-text.git
 ```
 Navigate to the project directory:
 
